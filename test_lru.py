@@ -1,7 +1,7 @@
 from lru_cache import LRUCache
 
 if __name__ == "__main__":
-    print("🚀 Testing LRU Cache")
+    print(" Testing LRU Cache")
 
     cache = LRUCache(2)  # capacity = 2
 
